@@ -35,6 +35,7 @@ npm run lint
 npm run lint -- --fix
 
 ===================
+
 或者在命令行上创建一个新的存储库。
 echo "# ui-china" >> README.md
 git init
@@ -42,6 +43,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ui-china/ui-china.git
 git push -u origin master
+
 …或从命令行推送现有存储库。
 git remote add origin https://github.com/ui-china/ui-china.git
 git push -u origin master
