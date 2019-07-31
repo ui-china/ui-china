@@ -47,3 +47,4 @@ git remote add origin https://github.com/ui-china/ui-china.git
 git push -u origin master
 …或从另一个存储库导入代码。
 您可以使用Subversion、Mercurial或TFS项目中的代码初始化此存储库。
+# ui-china
