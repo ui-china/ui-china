@@ -1,0 +1,12 @@
+.myclass1{
+  color: red;
+}
+
+.foorm{
+  display: block;
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  bottom:0px;
+  background-color: #666;
+}
